@@ -1,0 +1,13 @@
+C:\Users\CH190360\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\CH190360\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\CH190360\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\CH190360\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\CH190360\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\CH190360\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\CH190360\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+D:\taidangatm\doc\Training\HID通讯-c#\HID═¿╤╢-c#\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+D:\taidangatm\doc\Training\HID通讯-c#\HID═¿╤╢-c#\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+D:\taidangatm\doc\Training\HID通讯-c#\HID═¿╤╢-c#\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
+D:\taidangatm\doc\Training\HID通讯-c#\HID═¿╤╢-c#\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+D:\taidangatm\doc\Training\HID通讯-c#\HID═¿╤╢-c#\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+D:\taidangatm\doc\Training\HID通讯-c#\HID═¿╤╢-c#\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojResolveAssemblyReference.cache
